@@ -1,0 +1,158 @@
+{
+    "RANGE_BATALHA": [
+        1765,
+        493,
+        128,
+        210
+    ],
+    "RANGE_NOME_POKE_MORTO": [
+        1763,
+        972,
+        100,
+        18
+    ],
+    "RANGE_CHAT": [
+        201,
+        930,
+        150,
+        65
+    ],
+    "POS_LOOTS": [
+        [
+            1019,
+            450
+        ]
+    ],
+    "POS_POKE_BATALHA": [
+        1769,
+        502
+    ],
+    "POS_CLICK_ITEM_LOOT": [
+        1740,
+        1013
+    ],
+    "POS_POKE_LIFE": [
+        [
+            60,
+            88
+        ],
+        [
+            153,
+            88
+        ]
+    ],
+    "POS_POKE_TP": [
+        32,
+        450
+    ],
+    "POS_PAUSE_PESCA": [
+        717,
+        122
+    ],
+    "POS_POKES": [
+        [
+            34,
+            230
+        ],
+        [
+            34,
+            277
+        ],
+        [
+            34,
+            320
+        ],
+        [
+            34,
+            363
+        ],
+        [
+            34,
+            406
+        ]
+    ],
+    "CONF_NOME": "sceptile",
+    "HEAL_KEYS": {
+        "sceptile": {},
+        "togekiss": {
+            "f6": 80,
+            "f10": 65,
+            "f5": 55
+        },
+        "padrao": {
+            "f5": 60
+        }
+    },
+    "MOVES": {
+        "sceptile": [
+            "f2",
+            "f4",
+            "f9",
+            "f1",
+            "f5",
+            "f6",
+            "f7",
+            "f8",
+            "f10"
+        ],
+        "togekiss": [
+            "f9",
+            "f1",
+            "f3",
+            "f4",
+            "f8",
+            "f2",
+            "f7"
+        ],
+        "padrao": [
+            "f1",
+            "f2",
+            "f3",
+            "f4",
+            "f6",
+            "f7",
+            "f8",
+            "f9",
+            "f10"
+        ]
+    },
+    "CAPTURAR": [
+        "SHINY",
+        "HORDE",
+        "LEADER",
+        "TENTACOOL",
+        "CLAMPER",
+        "CLANPER",
+        "CLAMPERL",
+        "CLANPERL",
+        "QUILFISH",
+        "QUILTISH",
+        "QWILFISH",
+        "QUWILFISH",
+        "POLIWHIRL",
+        "POLIUHIRL",
+        "POLIURATH",
+        "POLIVRATH",
+        "HUNTAIL",
+        "LANTURN",
+        "WAILMER",
+        "WALMER",
+        "GOREBYSS",
+        "TENTACRUEL",
+        "SHARPEDO",
+        "POLIWRATH",
+        "POLITOED",
+        "MANTINE"
+    ],
+    "IGNORAR_POKES": [
+        "BELLSPROUT",
+        "SPEAROW",
+        "PIDGEY",
+        "SKIDDO",
+        "GOGOAT",
+        "GLOOM",
+        "PLUSLE",
+        "JOLTIK",
+        "BLITZLE"
+    ]
+}
