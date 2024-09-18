@@ -1,7 +1,7 @@
 # BOT DE PESCA PARA TIBIA POKEMON 
 
 Bot para automatizar o processo de pesca no jogo otPokemon.
-O bot não injeta nenhum arquivo malicioso entre os arquivos do jogo. O bot funciona baseando-se nos parâmetros passados no arquivo conf.json, a partir deste o bot lê e interpreta a tela do jogador.
+O bot não injeta nenhum arquivo malicioso entre os arquivos do jogo, ele funciona baseando-se nos parâmetros passados no arquivo *conf.json*, a partir deste o bot lê e interpreta a tela do jogador.
 
 ### Funcionalidades inclusas no bot:
 
